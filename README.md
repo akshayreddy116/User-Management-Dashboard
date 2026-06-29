@@ -17,8 +17,6 @@ The project follows a modular component-based architecture with reusable utiliti
 
 ## 📂 GitHub Repository
 
-> Add your GitHub repository link here
-
 ```
 https://github.com/yourusername/user-management-dashboard
 ```
