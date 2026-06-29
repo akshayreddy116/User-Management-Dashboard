@@ -1,0 +1,27 @@
+.delete-box{
+background:white;
+padding:30px;
+border-radius:12px;
+width:350px;
+text-align:center;
+}
+
+.delete{
+background:#dc2626;
+color:white;
+padding:10px 10px;
+border:none;
+border-radius:80px;
+margin-right:10px;
+cursor:pointer;
+}
+
+.cancel{
+background:#777;
+color:white;
+padding:10px 20px;
+border:none;
+border-radius:8px;
+cursor:pointer;
+margin-left:100px;
+}
