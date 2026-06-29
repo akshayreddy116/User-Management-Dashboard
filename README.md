@@ -9,7 +9,7 @@ A responsive **User Management Dashboard** built with **React.js**, **Axios**, a
 > Add your deployed link here
 
 ```
-[Live Demo](https://user-management-dashboard-self-three.vercel.app/)
+🔗 https://user-management-dashboard-self-three.vercel.app/
 ```
 
 ---
