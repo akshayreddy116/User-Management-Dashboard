@@ -1,12 +1,13 @@
 # 👥 User Management Dashboard
 
-A responsive **User Management Dashboard** built with **React.js**, **Axios**, and **JSONPlaceholder REST API**. The application allows users to view, search, filter, sort, add, edit, and delete user records while maintaining a clean, responsive UI.
+The **User Management Dashboard** is a responsive web application developed with **React.js**, Axios, and the JSONPlaceholder REST API. It provides a complete user management solution by allowing users to view, add, edit, and delete user records while supporting advanced features such as real-time search, multi-field filtering, sorting, pagination, and client-side form validation.
+
+The project follows a modular component-based architecture with reusable utilities and custom hooks, ensuring clean, maintainable, and scalable code. It demonstrates best practices in React development, API integration, state management, responsive UI design, and error handling.
 
 ---
 
-## 🚀 Live Demo
 
-> Add your deployed link here
+## 🚀 Live Demo
 
 ```
 🔗 https://user-management-dashboard-self-three.vercel.app/
